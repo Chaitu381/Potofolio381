@@ -51,7 +51,7 @@ const skillClusters = [
   {
     title: "Frontend Development",
     icon: Monitor,
-    skills: ["React", "HTML", "CSS", "JavaScript", "TypeScript", "Tailwind"],
+    skills: ["React", "HTML", "CSS", "JavaScript", "Tailwind"],
   },
   {
     title: "AI / Machine Learning",
