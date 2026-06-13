@@ -152,7 +152,7 @@ const Hero = () => {
             transition={{ duration: 0.75, delay: 0.2 }}
             className="mb-7 text-5xl font-bold tracking-[-0.06em] text-white md:text-7xl lg:text-8xl"
           >
-            Pilla Chaitanya
+            Chaitanya Pilla
           </motion.h1>
 
           <div className="mb-6 flex max-w-3xl flex-wrap justify-center gap-x-3 gap-y-2 text-3xl font-light leading-tight tracking-[-0.04em] text-slate-300 md:text-5xl lg:justify-start lg:text-6xl">
