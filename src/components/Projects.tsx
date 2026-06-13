@@ -128,7 +128,7 @@ const projects: Project[] = [
     span: "lg:col-span-3",
     icon: Layers3,
     github: "https://github.com/Chaitu381/StayOps.git",
-    demo: "https://stayops-demo-fengari.vercel.app/login",
+    demo: "https://stayops-demo.fengari.me",
     credentials: [
       {
         label: "Owner",
