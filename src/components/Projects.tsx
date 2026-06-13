@@ -82,7 +82,7 @@ const projects: Project[] = [
     span: "lg:col-span-3",
     icon: BrainCircuit,
     github: "https://github.com/Chaitu381/mqttndance-see.git",
-    demo: "https://betherechaitu381.vercel.app/",
+    demo: "https://bethere.fengari.me",
     credentials: [
       {
         label: "Admin Login",
